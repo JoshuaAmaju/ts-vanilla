@@ -11,6 +11,8 @@ export default `
     <p>Home page</p>
 
     <p>{{name}}: ${Status.pass}</p>
+    
+    <div className="loader" />
 
     <button>Click me</button>
   </div>
